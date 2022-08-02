@@ -5,4 +5,4 @@ This is a remote logging http transport for [roku-log](https://github.com/george
 ## Getting started
 
 - `npm i`
-- `npm run `
+- `npm run logger`
